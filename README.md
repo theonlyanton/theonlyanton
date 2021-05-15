@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please contact ak1847@scartletmail.rutgers.edu to request access to view private respositories.
+
 <!--
 **theonlyanton/theonlyanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
