@@ -1,7 +1,7 @@
 ### 👋 Welcome 👋
 
+- 💻 Major in Computer Science at Rutgers University - New Brunswick
 - 🌱 I’m currently learning Python and Android App Development
-- 💻 Major in Computer Science
 
 📫 Please contact ak1847@scartletmail.rutgers.edu to receive access to private respositories.
 
