@@ -1,8 +1,9 @@
 ### 👋 Welcome 👋
 
 - 🌱 I’m currently learning Python and Android App Development
+- 💻 Major in Computer Science
 
-Please contact ak1847@scartletmail.rutgers.edu to receive access to private respositories.
+📫 Please contact ak1847@scartletmail.rutgers.edu to receive access to private respositories.
 
 Projects from university are private due to policies regarding academic integrity.
 
