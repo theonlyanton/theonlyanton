@@ -7,7 +7,7 @@
 - ⚡ Projects from university are private due to policies regarding academic integrity.
 
 ### Connect with me: 
-<a href="https://twitter.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="30" width="40" /></a>
+<a href="https://twitter.com/anton_krotenok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="30" width="40" /></a>
 <!--
 **theonlyanton/theonlyanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
