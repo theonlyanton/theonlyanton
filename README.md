@@ -1,4 +1,5 @@
 # 👋 Welcome, I'm Anton Krotenok! 👋
+<h1 align = "center">👋 Welcome, I'm Anton Krotenok! 👋</h1>
 
 - 💻 Major in Computer Science at Rutgers University - New Brunswick
 - 🌱 I’m currently learning Python and Android App Development
