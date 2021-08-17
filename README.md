@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Anton Krotenok 👋
+# 👋 Welcome!   I'm Anton Krotenok. 👋
 
 - 💻 Major in Computer Science at Rutgers University - New Brunswick
 - 🌱 I’m currently learning Python and Android App Development
