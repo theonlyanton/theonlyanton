@@ -7,7 +7,7 @@
 - ⚡ Projects from university are private due to policies regarding academic integrity.
 
 ### Connect with me: 
-
+<a href=”https://www.instagram.com/theonlyanton/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <!--
 **theonlyanton/theonlyanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
