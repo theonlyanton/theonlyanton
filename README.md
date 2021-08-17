@@ -6,7 +6,7 @@
 
 - ⚡ Projects from university are private due to policies regarding academic integrity.
 
-#### Connect with me
+### Connect with me
 
 <!--
 **theonlyanton/theonlyanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
